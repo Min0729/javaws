@@ -1,10 +1,10 @@
-package day4;
+package day5;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-public class FileEx {
+public class FileEx2 {
 
 	public static void main(String[] args) throws IOException {
 		
