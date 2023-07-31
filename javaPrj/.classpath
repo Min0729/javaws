@@ -6,5 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/hbi/Desktop/다른분들 라이브러리/twoSum.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
