@@ -9,6 +9,13 @@ public class Player_test {
 		P = new player();
 		P.volumeUp();
 		P.volumeUp();
+				
+		//상위10곡 재생하기
+		P.top10list();
+				
+		//랜덤곡 가져오기
+		String randomMusic = P.랜덤재생하기();
+		System.out.println( randomMusic);
 		 
 	
 	}
