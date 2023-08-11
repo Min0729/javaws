@@ -1,4 +1,4 @@
-ㅔㅔpackage day15.정렬;
+package day15.정렬;
 
 public class 객체정렬라이브러리직접 {
 
